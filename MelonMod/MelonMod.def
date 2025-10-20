@@ -1,0 +1,4 @@
+LIBRARY MelonMod
+EXPORTS
+    CreateMod
+    DestroyMod
